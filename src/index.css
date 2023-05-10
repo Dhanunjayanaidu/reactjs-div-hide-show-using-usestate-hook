@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Home {
+  height: 100vh;
+}
+.Home .left {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+}
+.Home .right {
+  /* border: solid 1px red; */
+  height: 80vh;
+}
+.Home .ButtonGroup {
+
+}

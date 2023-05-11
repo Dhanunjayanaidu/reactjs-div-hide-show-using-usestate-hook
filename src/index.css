@@ -13,7 +13,7 @@ code {
 }
 
 .Home {
-  height: 100vh;
+  min-height: 100vh;
 }
 .Home .left {
   display: flex;
